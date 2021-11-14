@@ -1,1 +1,1 @@
-# WDDN-project
+# WDDN .net core mvc project
