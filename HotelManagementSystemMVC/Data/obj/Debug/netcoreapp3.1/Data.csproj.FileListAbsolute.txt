@@ -1,0 +1,13 @@
+D:\study\project\HotelSys-master\Source\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\study\project\HotelSys-master\Source\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\study\project\HotelSys-master\Source\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\study\project\HotelSys-master\Source\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\study\project\HotelSys-master\Source\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+D:\study\project\HotelSys-master\Source\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
